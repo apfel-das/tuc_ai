@@ -7,7 +7,7 @@ A repository made to showcase projects for the COMP417 - Artificial Intelligence
 
 - Compile and Run:
 
-  - Navigate to proper file.
+  - Navigate to proper directory.
   - Build via "javac Main.java"
   - Execute "java Main.java"
   - Builded and tested in JavaSE 13 (jdk - 13.0.1)
