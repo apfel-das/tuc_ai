@@ -11,4 +11,4 @@ A repository made to showcase projects for the COMP417 - Artificial Intelligence
   
 ## python3 Edition
 
--TBA.
+- TBA.
